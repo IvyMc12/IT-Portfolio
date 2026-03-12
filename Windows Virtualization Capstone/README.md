@@ -1,11 +1,11 @@
-#Virtual Machine CAPSTONE
+# Virtual Machine CAPSTONE
 
-##Objective
+## Objective
 Configure and deploy multiple virtual machines running legacy Microsoft operating systems
 (Windows 3.1, Windows 98, and Windows XP) in order to test compatibility and functionality of legacy software 
 applications within a virtualized environment.
 
-##Tools
+## Tools
   VMware Worstation
   MS-DOS
   Legacy
